@@ -25,5 +25,5 @@ function GRAPH() {
 
 
       }
-      console.log("errado")
+      
 }
