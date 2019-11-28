@@ -9,7 +9,7 @@ function GRAPH() {
       }
       function removeEdge(vert1, vert2) {
         vertices[vert1][vert2] = time
-        vertices[vert2][vert2] = time
+        vertices[vert2][vert2] = 
         
       }
       function custo(vert1,vert2) {
